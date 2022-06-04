@@ -6,7 +6,7 @@
 
 🎓 I am Pelumi Olawole, a **Full Stack Engineer in training** (specializing in **(not decided yet)**) and a **Top Rated** [**Freelance business consultant, coach, and 'professional' content writer**]. I am a graduate of the Federal University of Technology, and my course of study was Mathematics(Statistics Option.) I am also Pursuing an MBA at the moment.
 
-👨‍💻 I'm starting to contribute to **Open Source Projects** and have enjoyed the few I've worked on. I am really enthusiastic about creating solutions through Tech. In 2022, I'm learning **Modern Javascript**, **React / Redux**, **Node.js**, **Redis**, **MySQL / MongoDB** and others. I got started writing, then coaching, later on moved to establish myself as a business consultant. 
+👨‍💻 I am really enthusiastic about creating solutions through Tech. In 2022, I'm learning **Modern Javascript**, **React / Redux**, **Node.js**, **Redis**, **MySQL / MongoDB** and others. I got started writing, then coaching, later on moved to establish myself as a business consultant. 
 
 ⏫ Outside the world of Tech, I enjoy doing influecing, working wwith young leaders to help them devlop into a version of themselves that can attain perosnal mastery and ultimately personal success - I have several programs and platfroms through which I achieve this; my coahing programs, bootcamps, and podcast. 
 
@@ -31,7 +31,7 @@
 
 ## 🖥️ Workspace Setup
 
-![i5-8th-gen](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![i7-8th-gen](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
