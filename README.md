@@ -1,4 +1,6 @@
-# Hi there! <img src="https://media.giphy.com/media/oydIov5VxxXcG0mu1P/giphy.gif">
+# Hi there! 
+
+<img src="https://media.giphy.com/media/oydIov5VxxXcG0mu1P/giphy.gif">
 
 ## 🚀 About Me
 
