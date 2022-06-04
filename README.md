@@ -6,9 +6,9 @@
 
 🎓 I am Pelumi Olawole, a **Full Stack Engineer in training** (specializing in **(not decided yet)**) and a **Top Rated** [**Freelance business consultant, coach, and 'professional' content writer**]. I am a graduate of the Federal University of Technology, and my course of study was Mathematics(Statistics Option.) I am also Pursuing an MBA at the moment.
 
-👨‍💻 I'm starting to contribute to **Open Source Projects** and have enjoyed the few I've worked on. I am really enthusiastic about creating solutions through tech. In 2022, I'm learning **Modern Javascript**, **React / Redux**, **Node.js**, **Redis**, **MySQL / MongoDB** and others. I got started writing, then coaching, later on moved to establish myself as a business consultant. 
+👨‍💻 I'm starting to contribute to **Open Source Projects** and have enjoyed the few I've worked on. I am really enthusiastic about creating solutions through Tech. In 2022, I'm learning **Modern Javascript**, **React / Redux**, **Node.js**, **Redis**, **MySQL / MongoDB** and others. I got started writing, then coaching, later on moved to establish myself as a business consultant. 
 
-⏫ Outside the world of tech too, I enjoy doing influecing, working wwith young leaders to help them devlop into a version of themselves that can attain perosnal mastery and ultimately personal success - I have several programs and platfroms through which I achieve this; my coahing programs, bootcamps, and podcast. 
+⏫ Outside the world of Tech, I enjoy doing influecing, working wwith young leaders to help them devlop into a version of themselves that can attain perosnal mastery and ultimately personal success - I have several programs and platfroms through which I achieve this; my coahing programs, bootcamps, and podcast. 
 
 📚 I am avid reader and love pursuing and consuming the right knowledge in all its forms focused on **personal development**, **perosnal mastery**, **philosophy**, **psychology**, & **financial literacy**. My favorite books are **Today Matters** by _John C. Maxwell_ in the genre of personal development, **5am Club** by _Robin Sharma_ on perosnal mastery and productivity, and **12 Rules For Life** by _Jordan Peterson_ on the philosophies and principles that balance chaos with order and vice-versa.
 
