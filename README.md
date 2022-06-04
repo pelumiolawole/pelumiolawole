@@ -1,4 +1,4 @@
-# Hi there! <iframe src="https://giphy.com/embed/55iuL47JmtW3O5hHWY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theringer-dumbledore-the-ringer-55iuL47JmtW3O5hHWY">via GIPHY</a></p>
+# Hi there! [<iframe src="https://giphy.com/embed/55iuL47JmtW3O5hHWY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theringer-dumbledore-the-ringer-55iuL47JmtW3O5hHWY">via GIPHY</a></p>]
 
 
 ## 🚀 About Me
@@ -42,7 +42,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
-Want to know more? [Check out my linktree](https://linktr.ee/pelumiolawole)
 
 ## 📈 Stats
 
