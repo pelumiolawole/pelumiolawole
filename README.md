@@ -1,6 +1,6 @@
 # Hi there! 
 
-<img src="https://media.giphy.com/media/oydIov5VxxXcG0mu1P/giphy.gif">
+<img src="https://drive.google.com/file/d/1VcEG_PmenBxDwhc7MIAP29-Dd9lOJOQS/view?usp=drivesdk">
 
 ## 🚀 About Me
 
