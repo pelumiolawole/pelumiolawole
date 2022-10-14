@@ -2,9 +2,9 @@
 
 <img src="https://media.giphy.com/media/oydIov5VxxXcG0mu1P/giphy.gif">
 
-## 🚀 About Me
+## 🚀 About Me 
 
-🎓 I am Pelumi Olawole, a **Full Stack Engineer in training **(specializing in **(not decided yet)** and a **Top Rated** [**Freelance business consultant, coach, and 'professional' content writer**]. I am a graduate of the Federal University of Technology, and my course of study was Mathematics(Statistics Option.) I am also Pursuing an MBA at the moment.
+🎓 I am Pelumi Olawole, a **Full Stack Engineer in training**, specializing in **(not decided yet)** and a **Top Rated** [**Freelance business consultant, coach, and 'professional' content writer**]. I am a graduate of the Federal University of Technology, and my course of study was Mathematics(Statistics Option.) I am also Pursuing an MBA at the moment.
 
 👨‍💻 I am really enthusiastic about creating solutions through Tech. In 2022, I'm learning **Modern Javascript**, **React / Redux**, **Node.js**, **Redis**, **MySQL / MongoDB** and others. I got started writing, then coaching, later on moved to establish myself as a business consultant. 
 
