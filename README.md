@@ -6,7 +6,7 @@
 
 🎓 I am Pelumi Olawole, a **Full Stack Engineer**, specializing in **(not decided yet)** and a **Top Rated** [**Freelance business consultant, coach, and 'professional' content and technical writer**]. I am a graduate of the Federal University of Technology, and my course of study was Mathematics(Statistics Option.) I am also Pursuing an MBA at the moment.
 
-👨‍💻 I am really enthusiastic about creating solutions through Tech. In 2022, I'm learning **Modern Javascript**, **React / Redux**, **Node.js**, **Redis**, **MySQL / MongoDB** and others. I got started writing, then coaching, later on moved to establish myself as a business consultant. 
+👨‍💻 I am really enthusiastic about creating solutions through Tech. I've learnt and worked with **Modern Javascript**, **React / Redux**, **Node.js**, **Redis**, **MySQL / MongoDB** and others. I got started writing, then coaching, later on moved to establish myself as a business consultant. In 2024,I'm a certified CX speciaist, and Scrum Master. I'm presently learning cum interning as a Product Manager.
 
 ⏫ Outside the world of Tech, I enjoy doing influecing, working wwith young leaders to help them devlop into a version of themselves that can attain perosnal mastery and ultimately personal success - I have several programs and platfroms through which I achieve this; my coahing programs, bootcamps, and podcast. 
 
